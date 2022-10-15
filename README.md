@@ -93,7 +93,7 @@ If you see something like this :
 Your Windows10 as been successfully activated !
 
 ## 🚀 Informations :
-This tool was developped by me, and is inspired by the code of @Chaxiraxi :
+This tool was developped by me, and is inspired by the code of @Chaxiraxi :                       
 https://github.com/Chaxiraxi/Windows-Cracker
 
 The GUI was made using an script from Psi505 :                                   
