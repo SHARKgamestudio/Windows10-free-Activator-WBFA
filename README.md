@@ -20,9 +20,9 @@ The soft simply need admin-rights because it have to operate on your windows sys
 ```
 ## Installation :
 First, go to the branch that match the language you want to use :
- - [🇬🇧 English Branch](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [🇫🇷 French Branch](https://github.com/matiassingers/awesome-readme)
- - [🇮🇹 Italian Branch](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [🇬🇧 English Branch](https://github.com/SHARKgamestudio/Windows10-free-Activator-WBFA/tree/English)
+ - [🇫🇷 French Branch](https://github.com/SHARKgamestudio/Windows10-free-Activator-WBFA/tree/French)
+ - [🇮🇹 Italian Branch](https://github.com/SHARKgamestudio/Windows10-free-Activator-WBFA/tree/Italian)
 
 Then, download the tool via the releases or source-code, and unzip it into a folder.
 ## Using the tool :
