@@ -23,7 +23,8 @@ The soft simply need admin-rights because it have to operate on your windows sys
  - [🇬🇧 English Branch](https://github.com/SHARKgamestudio/Windows10-free-Activator-WBFA/tree/English)
  - [🇫🇷 French Branch](https://github.com/SHARKgamestudio/Windows10-free-Activator-WBFA/tree/French)
  - [🇮🇹 Italian Branch](https://github.com/SHARKgamestudio/Windows10-free-Activator-WBFA/tree/Italian)
-
+ - [🇪🇸 Spanish Branch](https://github.com/SHARKgamestudio/Windows10-free-Activator-WBFA/tree/Spanish)
+ 
 📍Then, download the tool via the releases or source-code, and unzip it into a folder.
 ## 🛠 Using the tool :
 
