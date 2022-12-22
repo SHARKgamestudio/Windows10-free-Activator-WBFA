@@ -23,6 +23,7 @@ First, go to the branch that match the language you want to use :
  - [🇬🇧 English Branch](https://github.com/SHARKgamestudio/Windows10-free-Activator-WBFA/tree/English)
  - [🇫🇷 French Branch](https://github.com/SHARKgamestudio/Windows10-free-Activator-WBFA/tree/French)
  - [🇮🇹 Italian Branch](https://github.com/SHARKgamestudio/Windows10-free-Activator-WBFA/tree/Italian)
+ - [🇪🇸 Spanish Branch](https://github.com/SHARKgamestudio/Windows10-free-Activator-WBFA/tree/Spanish)
 
 Then, download the tool via the releases or source-code, and unzip it into a folder.
 ## Using the tool :
